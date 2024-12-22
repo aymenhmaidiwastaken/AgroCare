@@ -1,0 +1,127 @@
+{
+    "yellowing_leaves": {
+        "name": "Yellowing Leaves",
+        "description": "Leaves turning yellow due to various environmental, nutritional, or pest-related issues.",
+        "possible_causes": [
+            "Nitrogen deficiency",
+            "Overwatering",
+            "Underwatering",
+            "Root damage",
+            "Pest infestation (e.g., spider mites, aphids)",
+            "Soil pH imbalance",
+            "Compacted soil reducing aeration"
+        ],
+        "recommended_actions": [
+            "Check soil nitrogen levels and fertilize appropriately.",
+            "Adjust watering schedule to maintain consistent moisture levels.",
+            "Aerate compacted soil to improve root oxygenation.",
+            "Inspect plants for pests and apply organic or chemical pest control as needed.",
+            "Test soil pH and adjust using lime or sulfur as required.",
+            "Monitor for proper drainage to prevent waterlogging."
+        ]
+    },
+    "brown_spots": {
+        "name": "Brown Spots",
+        "description": "Brown or black spots on leaves indicating fungal infections, nutrient deficiencies, or physical damage.",
+        "possible_causes": [
+            "Fungal infection (e.g., Alternaria leaf spot, Cercospora)",
+            "Sunburn",
+            "Potassium or magnesium deficiency",
+            "Pest damage (e.g., thrips, caterpillars)",
+            "Bacterial blight",
+            "Chemical burns from pesticide misuse"
+        ],
+        "recommended_actions": [
+            "Prune and dispose of infected leaves to prevent fungal spread.",
+            "Apply appropriate fungicides or bactericides as required.",
+            "Ensure even sunlight exposure and avoid direct afternoon sun for sensitive plants.",
+            "Use balanced fertilizers to correct nutrient deficiencies.",
+            "Follow pesticide instructions to prevent chemical burns.",
+            "Inspect for pests and use integrated pest management techniques."
+        ]
+    },
+    "wilting": {
+        "name": "Wilting",
+        "description": "Drooping or collapsing of plant stems and leaves due to water stress or disease.",
+        "possible_causes": [
+            "Underwatering",
+            "Overwatering causing root rot",
+            "Fusarium or Verticillium wilt",
+            "Nematode infestation",
+            "Heat stress",
+            "Physical damage to roots"
+        ],
+        "recommended_actions": [
+            "Water plants consistently and check soil moisture regularly.",
+            "Inspect roots for rot and trim affected parts if necessary.",
+            "Apply soil drenches to manage fungal wilts and nematodes.",
+            "Provide shade or mulch during extreme heat conditions.",
+            "Handle plants carefully to avoid damaging roots."
+        ]
+    },
+    "white_fungal_growth": {
+        "name": "White Fungal Growth",
+        "description": "Powdery or fuzzy white growth often caused by high humidity and poor air circulation.",
+        "possible_causes": [
+            "Powdery mildew",
+            "Sclerotinia rot",
+            "High humidity and stagnant air",
+            "Contaminated gardening tools"
+        ],
+        "recommended_actions": [
+            "Remove infected parts and sterilize tools after use.",
+            "Improve air circulation by spacing plants adequately.",
+            "Apply sulfur-based or synthetic fungicides to control mildew.",
+            "Reduce humidity in greenhouses or indoor growing areas."
+        ]
+    },
+    "leaf_curling": {
+        "name": "Leaf Curling",
+        "description": "Leaves curling upwards or downwards due to environmental or pest stress.",
+        "possible_causes": [
+            "Heat stress",
+            "Herbicide drift damage",
+            "Viral infections (e.g., Tomato Yellow Leaf Curl Virus)",
+            "Pest damage (e.g., whiteflies, aphids)",
+            "Calcium or potassium deficiency"
+        ],
+        "recommended_actions": [
+            "Provide adequate shade during hot days to prevent heat stress.",
+            "Inspect for pests and use appropriate control measures.",
+            "Test soil nutrients and correct deficiencies using fertilizers.",
+            "Monitor for viral symptoms and isolate infected plants."
+        ]
+    },
+    "stem_discoloration": {
+        "name": "Stem Discoloration",
+        "description": "Darkened or discolored stems indicating disease or injury.",
+        "possible_causes": [
+            "Stem rot caused by overwatering",
+            "Fungal infections (e.g., Fusarium stem rot)",
+            "Mechanical injury",
+            "Bacterial cankers"
+        ],
+        "recommended_actions": [
+            "Ensure proper drainage to avoid waterlogged conditions.",
+            "Prune affected stems and dispose of them properly.",
+            "Apply systemic fungicides to prevent fungal spread.",
+            "Avoid rough handling to prevent mechanical injuries."
+        ]
+    },
+    "fruit_rot": {
+        "name": "Fruit Rot",
+        "description": "Soft, discolored, or mushy fruit caused by fungal, bacterial, or environmental factors.",
+        "possible_causes": [
+            "Fungal infections (e.g., Botrytis, Anthracnose)",
+            "Improper watering leading to high moisture levels",
+            "Physical damage exposing fruit to pathogens",
+            "Poor air circulation in dense canopies"
+        ],
+        "recommended_actions": [
+            "Remove and dispose of rotting fruit to prevent spread.",
+            "Apply fungicides targeting specific pathogens.",
+            "Ensure even watering to prevent fruit cracking.",
+            "Prune plants to improve air circulation around fruit clusters."
+        ]
+    }
+}
