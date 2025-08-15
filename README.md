@@ -36,7 +36,7 @@ A multi-version Streamlit app (V1, V2, V3) for plant disease **detection, compar
   <img src="assets/icons/openai.png" alt="OpenAI" height="28" />
   <img src="assets/icons/numpy.png" alt="NumPy" height="28" />
   <img src="assets/icons/toolhouse.png" alt="Toolhouse" height="28" />
-  <img src="assets/icons/groq.png" alt="Toolhouse" height="28" />
+  <img src="assets/icons/groq.jpeg" alt="Toolhouse" height="28" />
         </p>
 
 
