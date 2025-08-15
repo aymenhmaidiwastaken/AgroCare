@@ -1,4 +1,4 @@
-# 🌱 AgroCare — Plant Disease Triage (Streamlit + MongoDB + LLM Agents)
+# 🌱 AgroCare — Plant Disease Detection (Streamlit + MongoDB + LLM Agents)
 
 A multi-version Streamlit app (V1, V2, V3) for plant disease **detection, comparison, and history tracking**, backed by **MongoDB** and powered by **multi‑agent LLM analysis**. Includes secure auth (bcrypt) and data persistence for repeatable diagnostics.
 
