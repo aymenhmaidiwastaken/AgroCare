@@ -28,7 +28,6 @@ A multi-version Streamlit app (V1, V2, V3) for plant disease **detection, compar
 
 ## 🧰 Tech Stack
 
-> Place these SVGs (or PNGs) in `assets/icons/`. You can use icons from your own design system or **Simple Icons**. Filenames above are suggestions and can be changed.
 <p align="left">
   <img src="assets/icons/python.png" alt="Python" height="28" />
   <img src="assets/icons/streamlit.png" alt="Streamlit" height="28" />
