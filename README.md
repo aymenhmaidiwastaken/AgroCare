@@ -6,7 +6,7 @@ A multi-version Streamlit app (V1, V2, V3) for plant disease **detection, compar
 ## ▶️ Demo
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Python" height="800" />
+  <img src="assets/demo.gif" alt="demo" height="800" />
         </p>
 
 ---
