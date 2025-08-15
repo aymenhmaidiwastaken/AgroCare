@@ -1,0 +1,4 @@
+embeddings/ 
+__pycache__/
+.env
+.streamlit/*
