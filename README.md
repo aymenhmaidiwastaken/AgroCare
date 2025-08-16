@@ -129,7 +129,7 @@ AgroCareApp/
 │  ├─ demo.gif                 # your showcase GIF
 │  └─ icons/                   # tech logos (svg/png)
 ├─ config/
-│  └─ secrets.example.toml     # DO NOT put real secrets here
+│  └─ secrets.example.toml     
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
